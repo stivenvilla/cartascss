@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img.jpg);
+}
+
+img{
+    margin-top: 50px;
+    width: 50%;
+    height: 50%;
+    margin-left: 300px;
+    margin-block-end: 50px;
+}
